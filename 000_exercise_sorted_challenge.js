@@ -80,7 +80,7 @@ solution #2
 
 // 1. Create two functions called inAscending and isDescending.
 // 2. In each function, check if one item is less than the next one, greater than the next one.
-// 3. Create the function called isSorted, where both results returned in the two functions are true, or either of them is true, the final result will be true. Otherwise, it will be false. 
+// 3. Create a function called isSorted, where both results returned in the two functions are true, or either of them is true, the final result will be true. Otherwise, it will be false. 
 
 const isAscending = function (arr) {
   for (let i = 1; i < arr.length; i++) {
