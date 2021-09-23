@@ -5,8 +5,8 @@
 /*
 solution
 */
-// 1. Set a valuable to store the first delta supposing that it's the biggest delta
-// 2. Loop over the array and store the delta between each two numbers in delta valuable
+// 1. Set a valuable to store the first delta supposing that it's the biggest delta.
+// 2. Loop over the array and store the delta between each two numbers in delta valuable.
 // 3. Compare delta and max_delta in each iteration. If delta is greater than current max_delta, max_delta will be replaced with delta.
 // 4. Finally, print the max_delta in console.
 
